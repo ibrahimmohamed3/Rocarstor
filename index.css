@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+    padding: 3px;
+    box-sizing: border-box;
+}
+nav{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid black;
+    margin: auto;
+
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+nav ul li{
+    list-style: none;
+    padding: 0px 5px;
+    display: inline-block;
+    margin: 10px 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+    color: #000;
+    
+
+}
+.main{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#disk{
+    margin-left: 0;
+    margin-top: 10%;
+}
+#disk h1{
+    font-size: 40px;
+    color: #000;
+}
+.b{
+    height: 0.7cm;
+    width: 3cm;
+    background-color: orangered;
+    border-color: orangered;
+    border-radius: .5rem;
+}
+.b:hover{
+    transform: scale(1.1);
+}
+.b1{
+    height: 0.7cm;
+    width: 3cm;
+    border-color: orangered;
+    margin-top: 2px;
+    border-radius: .5rem;
+    background-color: white;
+}
+.b1:hover{
+    transform: scale(1.1);
+}
+
+.Get{
+    padding: 10px 20px;
+    background: #fe5b3b;
+    font-weight: 500;
+    color:black;
+    border-radius: .5rem;
+}
+.Get:hover{
+    transform: scale(1.1);
+
+}
+.second{
+    padding: 100px;
+    margin-left: -6%;
+    
+}
+#disk img{
+    width: 50%;
+    float: right;
+    margin-top: -20%;
+       
+   }
+li{
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+    float: left;
+    height: 0.7cm;
+    width: 3cm;
+    color: white;
+
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.mercedes{
+    border: 1px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 2px 2px 2px grey;
+    
+}
+.parent button{
+    background-color: #ff4500;
+    border-radius: .5rem;
+}
+.container{
+    display: flex;
+    text-align: center;
+    font-size: small;
+}
+.mother{
+    border: 1px solid grey;
+    box-shadow: 1px 1px 1px solid rgb(22, 22, 22);
+    border-radius: .5rem;
+    height: 5cm;
+ 
+
+}
