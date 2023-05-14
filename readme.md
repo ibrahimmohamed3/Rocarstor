@@ -1,7 +1,7 @@
-# Car website
+# Rocarstor website
 
 ##### By Ibrahim Mohamed
-### it is a description of the project
+### It is a description of the project
 ## Table of content
 
 +[Description](#description)
