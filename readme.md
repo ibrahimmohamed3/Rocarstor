@@ -12,12 +12,12 @@
 ## Description
 <p>This is a website that shows Rocastor cars that are available for selling and renting.<p>
 
-# Projectname
+# Project name
  Rocarstor
 
- ### Technologyused
+ ### Technology used
  HTML
  CSS
 
- ### Authorsinfo
+ ### Authors info
 Ibrahim Mohamed 
