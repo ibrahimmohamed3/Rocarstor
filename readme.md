@@ -6,8 +6,8 @@
 
 +[Description](#description)
 +[projectname](#project name)
-+[Technologyused]
-+[Authorsinfo]
++[Technologyused](#technologyused)
++[Authorsinfo](#Authors)
 
 ## Description
 <p>This is a website that shows Rocastor cars that are available for selling and renting.<p>
