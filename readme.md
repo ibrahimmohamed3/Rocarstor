@@ -4,8 +4,8 @@
 ### it is a description of the project
 ## Table of content
 
-+[Description]
-+[projectname]
++[Description](#description)
++[projectname](#project name)
 +[Technologyused]
 +[Authorsinfo]
 
